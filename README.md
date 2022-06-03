@@ -10,11 +10,12 @@ on writing clean, elegant and efficient code. Always looking to find patterns of
 helpful in learning Web Development
 <br/>
 ## 🙋‍♂️ About Me
-<br/>
-- 🔭  Proficient in **MERN Stack**<br/>
-- 🌱 Proficient in **Data Structures and Algorithms.**<br/>
 
-- 👯 I’m looking to collaborate with any **Web Devlopment projects.**<br/>
+- 🔭  Proficient in **MERN Stack** 
+
+- 🌱 Proficient in **Data Structures and Algorithms.** 
+
+- 👯 I’m looking to collaborate with any **Web Devlopment projects.** 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://tejaswini-mahale.vercel.app//)**<br/>
 
