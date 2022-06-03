@@ -1,6 +1,6 @@
 
 
-### Hi there 👋
+<h1> Hi there 👋<h1/>
 
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Tejaswini+Mahale!;Learning+Web+Development...;" style="max-width: 100%;">
 
@@ -9,7 +9,7 @@ I'm a passionate self-learner and Full Stack Web Developer skilled in MERN Stack
 on writing clean, elegant and efficient code. Always looking to find patterns of which are 
 helpful in learning Web Development
 <br/>
-## 🙋‍♂️ About Me
+<h1> 🙋‍♂️ About Me<h1/>
 
 - 🔭  Proficient in **MERN Stack** 
 
@@ -28,14 +28,14 @@ helpful in learning Web Development
   <li>Full-stack Development</li>
 </ul>
 <br/>
-## ❤ Views and Followers<br/>
+<h1> ❤ Views and Followers <h1/><br/>
 <a href="https://github.com/TejaswiniMahale/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TejaswiniMahale">
 </a>
 <a href="https://github.com/TejaswiniMahale?tab=followers"><img src="https://img.shields.io/github/followers/TejaswiniMahale?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
-## Connect with me:
+<h1> Connect with me</h1>:
 <br/>
 <p align="left">
 
@@ -45,7 +45,7 @@ helpful in learning Web Development
 </p>
 
 <br/>
-## 🚀 Languages and Tools:
+<h1> 🚀 Languages and Tools<h1/>:
 
 
 <p align="left"> 
@@ -72,7 +72,7 @@ helpful in learning Web Development
     </a>
 </p>
 
-## 📊 My Github Stats
+<h1> 📊 My Github Stats</h1>
 
 
   <br/>
