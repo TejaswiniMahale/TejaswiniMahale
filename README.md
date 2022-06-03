@@ -1,6 +1,6 @@
 
 
-<h1> Hi there 👋<h1/>
+ Hi there 👋
 
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Tejaswini+Mahale!;Learning+Web+Development...;" style="max-width: 100%;">
 
@@ -9,7 +9,7 @@ I'm a passionate self-learner and Full Stack Web Developer skilled in MERN Stack
 on writing clean, elegant and efficient code. Always looking to find patterns of which are 
 helpful in learning Web Development
 <br/>
-<h1> 🙋‍♂️ About Me<h1/>
+ 🙋‍♂️ About Me
 
 - 🔭  Proficient in **MERN Stack** 
 
@@ -28,14 +28,14 @@ helpful in learning Web Development
   <li>Full-stack Development</li>
 </ul>
 <br/>
-<h1> ❤ Views and Followers <h1/><br/>
+❤ Views and Followers <br/>
 <a href="https://github.com/TejaswiniMahale/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TejaswiniMahale">
 </a>
 <a href="https://github.com/TejaswiniMahale?tab=followers"><img src="https://img.shields.io/github/followers/TejaswiniMahale?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
-<h1> Connect with me</h1>:
+Connect with me:
 <br/>
 <p align="left">
 
@@ -45,7 +45,7 @@ helpful in learning Web Development
 </p>
 
 <br/>
-<h1> 🚀 Languages and Tools<h1/>:
+ 🚀 Languages and Tools:
 
 
 <p align="left"> 
@@ -72,7 +72,7 @@ helpful in learning Web Development
     </a>
 </p>
 
-<h1> 📊 My Github Stats</h1>
+ 📊 My Github Stats
 
 
   <br/>
@@ -92,11 +92,11 @@ helpful in learning Web Development
 <br/>
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=TejaswiniMahale&theme=monokai&row=1&column=4">
-<h3>When not coding:</h3>
-Playing Badminton🏸<br>
-Crafting💡<br>
-Travelling(Historical Places) 🏍️<br>
-Sleeping💤<br>
+When not coding:<br>
+- Playing Badminton🏸<br>
+- Crafting💡<br>
+- Travelling(Historical Places) 🏍️<br>
+- Sleeping💤<br>
 
 ----
 
