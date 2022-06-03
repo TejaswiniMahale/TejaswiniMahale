@@ -91,6 +91,15 @@ helpful in learning Web Development
 
 <br/>
 <br/>
+<img src="https://github-profile-trophy.vercel.app/?username=TejaswiniMahale&theme=monokai&row=1&column=4">
+<h3>When not coding:</h3>
+Playing Badminton🏸<br>
+Crafting💡<br>
+Travelling(Historical Places) 🏍️<br>
+Sleeping💤<br>
 
+----
 
-
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
