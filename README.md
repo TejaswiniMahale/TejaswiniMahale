@@ -90,8 +90,7 @@ Connect with me:
 <a href="https://github.com/TejaswiniMahale/github-readme-activity-graph"><img alt="Tejaswini Mahale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TejaswiniMahale&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=TejaswiniMahale&theme=monokai&row=1&column=4">
+
 When not coding:<br>
 - Playing Badminton🏸<br>
 - Crafting💡<br>
